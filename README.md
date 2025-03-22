@@ -16,13 +16,13 @@ I have helped many clients by visiting them or having their desktop or laptops d
 networking issues, updating their router or configuring it through web browser, these are just some examples of my hands on experience.
 
 Minecraft Modpack:
-I created and still maintain a minecraft modpack since 2013. While i dont work on it much now, it still has a community that plays.
+I created and still maintain a minecraft modpack since 2013. It has around 50k Installs.  While i dont work on it much now, it still has a community that plays.
 The modpack constists of 200~ mods to completely enhance and alter gameplay from original minecraft.
 - Original Modpack Hosted on Technicpack.net: https://www.technicpack.net/modpack/a-new-age-enterprise.55905
 It reached 45k Installs and 154k Runs
 - New Modpack Location on Curseforge: https://www.curseforge.com/minecraft/modpacks/industrial-age-the-turning
 
-I made a website for the server and modpack
+I made a website for the server and modpack, it is now replaced by a discord server
 - https://www.nucleartekkit.enjin.com 
 while it is no longer active due to the website company shutting down, it can still be viewed with waybackmachine(it is lacking detail due to the images not being captured or the links to them are now gone)
 - Homepage: https://web.archive.org/web/20150917115103/http://nucleartekkit.enjin.com:80/

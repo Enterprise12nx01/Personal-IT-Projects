@@ -4,10 +4,10 @@ Custom Built Computers:
 I have been building and troubleshooting custom computers for 10 years, i started with my own and have built many computers ranging from office work to high end gaming desktops for my personal clients.
 
 - The "Client Gaming PC" was built for a low end budget desktop, which i have updated over the years when requested.
-- The "Germany Shipped Gaming PC" I built for a friend who was in the military over seas in Germany, as he wanted it made just how he wanted which online retailers dont offer much customization for pre-builts.
-This was a high end system with all in one watercooling, gold themed with high end rgb fans.
+- The "Germany Shipped Gaming PC" I built for a customer who was in the military over seas in Germany, as he wanted it made just how he wanted which online retailers dont offer much customization for pre-builts.
+This was a high end system with all in one watercooling, gold/black themed.
 Troubleshooting: When it arrived there i had to diagnose his hard drive had been damaged during shipping. Over his 4 years of training, i would troubleshoot and diagnose issues he had over the phone, whether it be audio issues, driver issues, etc.
-His all in one liquid cooling for his CPU had begun to fail, and i had to help him understand what i needed him to do, as he had no IT or troubleshooting knowledge.  He had said his pc was running extremely slow one day, after some troubleshooting, i narrowed it down to the pump, ruling out viruses, or any cable connections.
+His all in one liquid cooling for his CPU had began to fail, and i had to help him understand what i needed him to do, as he had no IT or troubleshooting knowledge.  He had said his pc was running extremely slow one day, after some troubleshooting, ruling out viruses, filled storage drive, or a failing drive and ruling out other possible issues from his description like a slow internet connection.
 He was able to get it warrantied and replaced.
 - The "Watercooled PCS" My personal project, i have built and upgraded my computer over the years, replacing old components or changing out cases. I started custom rigid watercooling a few years ago.
 
